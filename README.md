@@ -3,7 +3,7 @@ Movie App with React and Redux
 
 #
 <p align="center">
-  <img src="https://raw.githubusercontent.com/zauribrahimkhalilov/movieapp-react-redux/master/screenshot/screenshot.png" width="800" height="450">
+  <img src="https://raw.githubusercontent.com/zauribrahimkhalilov/movieapp-react-redux/master/screenshot/Screenshot.png" width="800" height="450">
 </p>
 
 # Installation
